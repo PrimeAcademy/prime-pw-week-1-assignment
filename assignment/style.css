@@ -4,22 +4,19 @@ body {
 }
 /* Make the header and footer a different color from the background */
 header {
-  background-color: #ccffff; text-align: center;
+  background-color: #ccffff; text-align: center; font-style: normal;
 }
 footer {
-  background-color: #ccffff; text-align: center;
+  background-color: #ccffff; text-align: center; font-style: normal;
 }
-
 /* Align the h1 containing your name in the center of the header*/
-H1 {text-align: center};
-
+H1 {text-align: center;}
 /* Make your p tag a different color and italic */
 p.b {
   font-style: italic;
 }
-
 body {
-  color: #800000;
+  color: #800000; text-align: center; font-style: italic;
 }
 /* Put a border around your image */
 img {
