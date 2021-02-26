@@ -125,3 +125,4 @@ Watch the [detailed video instructions](https://vimeo.com/199694700). If needed,
 ### 8 | Answer Slack Discussion Question
 Make sure that you answer this week's Slack discussion question (found each week in the left sidebar of the Tier 1 site) in your cohort's Slack channel!
 
+#testing-hello-world
